@@ -1,36 +1,11 @@
 {
-	"stores":
-	[
-		{
-			"id": 1,
-			"position": 1,
-			"name": "A店",
-			"display": true
-		},
-		{
-			"id": 2,
-			"position": 3,
-			"name": "B店",
-			"display": true
-		},
-		{
-			"id": 3,
-			"position": 2,
-			"name": "C店",
-			"display": true
-		},
-		{
-			"id": 4,
-			"position": 4,
-			"name": "非表示店",
-			"display": false
-		},
-		{
-			"id": 5,
-			"position": 5,
-			"name": "アーカイブ店",
-			"display": false,
-			"is_archived": true
-		}
-	]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
