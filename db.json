@@ -3,7 +3,7 @@
 	[
 		{
 			"id": 0,
-			"nameAdmin": "dammy店舗",
+			"nameAdmin": "dammy店舗 0",
 			"nameInternal": "internal-name",
 			"display": true,
 			"archived": false,
@@ -68,9 +68,68 @@
 		},
 		{
 			"id": 1,
-			"position": 1,
-			"nameAdmin": "A店",
-			"display": true
+			"nameAdmin": "dammy店舗 1",
+			"nameInternal": "internal-name",
+			"display": false,
+			"archived": false,
+			"locales": {
+				"ja": {
+					"name": "js 店鋪1 ",
+					"mail1": "mail 店鋪1 ",
+					"mail2": "mail2 店鋪1 ",
+					"mail3": "mail3 店鋪1 ",
+					"information1": "購入画面お知らせテキスト 店鋪1 ",
+					"information1_url": "url 店鋪1 ",
+					"information2": "text 店鋪1 ",
+					"information2_url": "url2 店鋪1 ",
+					"receipt_information": "recip"
+				},
+				"en": {
+					"name": "en 店鋪1 ",
+					"mail1": "en mail 店鋪1 ",
+					"mail2": "en mail2 店鋪1 ",
+					"mail3": "en mail3 店鋪1 ",
+					"information1": "en 購入画面お知らせテキスト 店鋪1 ",
+					"information1_url": "en url 店鋪1 ",
+					"information2": "en text 店鋪1 ",
+					"information2_url": "en url2 店鋪1 ",
+					"receipt_information": "en recip"
+				},
+				"kr": {
+					"name": "kr  店鋪1 ",
+					"mail1": "kr  店鋪1 ",
+					"mail2": "kr  店鋪1 ",
+					"mail3": "kr  店鋪1 ",
+					"information1": "kr  店鋪1 ",
+					"information1_url": "kr  店鋪1 ",
+					"information2": "kr  店鋪1 ",
+					"information2_url": "kr  店鋪1 ",
+					"receipt_information": "kr "
+				},
+				"zh-hans": {
+					"name": " 店鋪1 ",
+					"mail1": " 店鋪1 ",
+					"mail2": " 店鋪1 ",
+					"mail3": " 店鋪1 ",
+					"information1": " 店鋪1 ",
+					"information1_url": " 店鋪1 ",
+					"information2": " 店鋪1 ",
+					"information2_url": " 店鋪1 ",
+					"receipt_information": ""
+				},
+				"zh-hant": {
+					"name": " 店鋪1 ",
+					"mail1": " 店鋪1 ",
+					"mail2": " 店鋪1 ",
+					"mail3": " 店鋪1 ",
+					"information1": " 店鋪1 ",
+					"information1_url": " 店鋪1 ",
+					"information2": " 店鋪1 ",
+					"information2_url": " 店鋪1 ",
+					"receipt_information": ""
+				}
+			},
+			"position": 1
 		},
 		{
 			"id": 2,
