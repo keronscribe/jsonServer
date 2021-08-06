@@ -5,7 +5,7 @@
 			"id": 0,
 			"nameAdmin": "dammy店舗",
 			"nameInternal": "internal-name",
-			"display": "show",
+			"display": true,
 			"archived": false,
 			"locales": {
 				"ja": {
@@ -20,26 +20,26 @@
 					"receipt_information": "recip"
 				},
 				"en": {
-					"name": "",
-					"mail1": "",
-					"mail2": "",
-					"mail3": "",
-					"information1": "",
-					"information1_url": "",
-					"information2": "",
-					"information2_url": "",
-					"receipt_information": ""
+					"name": "en",
+					"mail1": "en mail",
+					"mail2": "en mail2",
+					"mail3": "en mail3",
+					"information1": "en 購入画面お知らせテキスト",
+					"information1_url": "en url",
+					"information2": "en text",
+					"information2_url": "en url2",
+					"receipt_information": "en recip"
 				},
 				"kr": {
-					"name": "",
-					"mail1": "",
-					"mail2": "",
-					"mail3": "",
-					"information1": "",
-					"information1_url": "",
-					"information2": "",
-					"information2_url": "",
-					"receipt_information": ""
+					"name": "kr ",
+					"mail1": "kr ",
+					"mail2": "kr ",
+					"mail3": "kr ",
+					"information1": "kr ",
+					"information1_url": "kr ",
+					"information2": "kr ",
+					"information2_url": "kr ",
+					"receipt_information": "kr "
 				},
 				"zh-hans": {
 					"name": "",
@@ -63,36 +63,37 @@
 					"information2_url": "",
 					"receipt_information": ""
 				}
-			}
+			},
+			"position": 1
 		},
 		{
 			"id": 1,
 			"position": 1,
-			"name": "A店",
+			"nameAdmin": "A店",
 			"display": true
 		},
 		{
 			"id": 2,
 			"position": 3,
-			"name": "B店",
+			"nameAdmin": "B店",
 			"display": true
 		},
 		{
 			"id": 3,
 			"position": 2,
-			"name": "C店",
+			"nameAdmin": "C店",
 			"display": true
 		},
 		{
 			"id": 4,
 			"position": 4,
-			"name": "非表示店",
+			"nameAdmin": "非表示店",
 			"display": false
 		},
 		{
 			"id": 5,
 			"position": 5,
-			"name": "アーカイブ店",
+			"nameAdmin": "アーカイブ店",
 			"display": false,
 			"is_archived": true
 		}
