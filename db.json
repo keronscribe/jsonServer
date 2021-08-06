@@ -2,7 +2,7 @@
 	"stores":
 	[
 		{
-			"id": 0,
+			"id": "internal-name",
 			"nameAdmin": "dammy店舗",
 			"nameInternal": "internal-name",
 			"display": true,
