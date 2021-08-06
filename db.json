@@ -2,6 +2,70 @@
 	"stores":
 	[
 		{
+			"id": 0,
+			"nameAdmin": "dammy店舗",
+			"nameInternal": "internal-name",
+			"display": "show",
+			"archived": false,
+			"locales": {
+				"ja": {
+					"name": "js",
+					"mail1": "mail",
+					"mail2": "mail2",
+					"mail3": "mail3",
+					"information1": "購入画面お知らせテキスト",
+					"information1_url": "url",
+					"information2": "text",
+					"information2_url": "url2",
+					"receipt_information": "recip"
+				},
+				"en": {
+					"name": "",
+					"mail1": "",
+					"mail2": "",
+					"mail3": "",
+					"information1": "",
+					"information1_url": "",
+					"information2": "",
+					"information2_url": "",
+					"receipt_information": ""
+				},
+				"kr": {
+					"name": "",
+					"mail1": "",
+					"mail2": "",
+					"mail3": "",
+					"information1": "",
+					"information1_url": "",
+					"information2": "",
+					"information2_url": "",
+					"receipt_information": ""
+				},
+				"zh-hans": {
+					"name": "",
+					"mail1": "",
+					"mail2": "",
+					"mail3": "",
+					"information1": "",
+					"information1_url": "",
+					"information2": "",
+					"information2_url": "",
+					"receipt_information": ""
+				},
+				"zh-hant": {
+					"name": "",
+					"mail1": "",
+					"mail2": "",
+					"mail3": "",
+					"information1": "",
+					"information1_url": "",
+					"information2": "",
+					"information2_url": "",
+					"receipt_information": ""
+				}
+			}
+		},
+		{
 			"id": 1,
 			"position": 1,
 			"name": "A店",
