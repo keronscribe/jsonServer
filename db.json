@@ -1,13 +1,11 @@
 {
 	"pay":
-	[
-		{
-		  "s_terkn": "01",
-		  "s_spcd": "00073672902",
-		  "s_cptok": "gaieg%eankg238d$",
-		  "request_url": "https://id.smt.docomo.ne.jp/cgi8/oidc/authorize"
-		}
-	],
+	{
+	  "s_terkn": "01",
+	  "s_spcd": "00073672902",
+	  "s_cptok": "gaieg%eankg238d$",
+	  "request_url": "https://id.smt.docomo.ne.jp/cgi8/oidc/authorize"
+	},
 	"stores":
 	[
 		{
